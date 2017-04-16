@@ -1,0 +1,6 @@
+body {
+  background: url('/assets/images/rice_paper.png');
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
